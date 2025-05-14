@@ -1,0 +1,79 @@
+{
+  "Maize": {
+    "seeds": {
+      "Kano": "SAMMAZ 52",
+      "Kaduna": "SAMMAZ 40",
+      "Niger": "SAMMAZ 34",
+      "Plateau": "SAMMAZ 27",
+      "Sokoto": "SAMMAZ 28"
+    },
+    "default_seed": "Improved Open Pollinated Maize",
+    "soil": "Loamy",
+    "fertilizer": "Apply NPK 15-15-15 at 2 weeks, then Urea at 5 weeks",
+    "pesticide": "Use Lambda-cyhalothrin every 2 weeks during flowering",
+    "inspection_days": ["14 days", "45 days", "80 days"]
+  },
+  "Rice": {
+    "seeds": {
+      "Kano": "FARO 44",
+      "Kebbi": "FARO 52",
+      "Benue": "NERICA 4",
+      "Niger": "FARO 57",
+      "Adamawa": "FARO 61"
+    },
+    "default_seed": "Upland rice – NERICA",
+    "soil": "Clay",
+    "fertilizer": "NPK before transplanting, Urea 3 weeks later",
+    "pesticide": "Apply Carbofuran granules at tillering stage",
+    "inspection_days": ["21 days", "50 days", "90 days"]
+  },
+  "Tomato": {
+    "seeds": {
+      "Kaduna": "UC82B",
+      "Kano": "Roma VF",
+      "Bauchi": "Tropimech",
+      "Nasarawa": "Roma Sahel"
+    },
+    "default_seed": "Local improved tomato hybrid",
+    "soil": "Sandy loam",
+    "fertilizer": "Compost before transplanting, NPK after 2 weeks",
+    "pesticide": "Spray Ridomil Gold for blight every 10 days",
+    "inspection_days": ["12 days", "30 days", "70 days"]
+  },
+  "Millet": {
+    "seeds": {
+      "Kano": "LCIC MV 5",
+      "Yobe": "SOSAT-C88",
+      "Borno": "PEO 5532"
+    },
+    "default_seed": "Improved drought-tolerant millet",
+    "soil": "Sandy",
+    "fertilizer": "Apply NPK at 3 weeks, topdress with Urea at 6 weeks",
+    "pesticide": "Neem-based biopesticide every 2 weeks",
+    "inspection_days": ["12 days", "40 days", "75 days"]
+  },
+  "Cowpea": {
+    "seeds": {
+      "Kano": "SAMPEA 14",
+      "Katsina": "SAMPEA 11",
+      "Sokoto": "SAMPEA 8"
+    },
+    "default_seed": "SAMPEA 10",
+    "soil": "Sandy",
+    "fertilizer": "Use SSP or TSP at planting",
+    "pesticide": "Cypermethrin every 2 weeks during flowering",
+    "inspection_days": ["10 days", "30 days", "60 days"]
+  },
+  "Groundnut": {
+    "seeds": {
+      "Bauchi": "SAMNUT 24",
+      "Kano": "SAMNUT 26",
+      "Kaduna": "SAMNUT 25"
+    },
+    "default_seed": "SAMNUT 23",
+    "soil": "Sandy",
+    "fertilizer": "Apply phosphorus fertilizer at flowering stage",
+    "pesticide": "Chlorpyrifos every 3 weeks",
+    "inspection_days": ["14 days", "40 days", "70 days"]
+  }
+}
